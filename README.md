@@ -4,8 +4,6 @@
 
 This Terraform project is designed to provision and manage resources on Google Cloud Platform (GCP). It automates the setup of a Google Kubernetes Engine (GKE) cluster, Google Artifact Registry, and a Service Account. This project provides the infrastructure as code (IaC) needed for your ATS application deployment on GCP.
 
-![image](https://github.com/eniolastyle/ATS-GKE-Terraform/assets/58726365/028e6b24-67c9-4a7e-86ad-c069063f8e4a)
-
 
 ## Prerequisites
 
