@@ -37,6 +37,10 @@ Follow these steps to use this Terraform project:
    terraform init
    ```
 
+   ```python
+   print("heello")
+   ```
+
 4. Create a `terraform.tfvars` file with the required variables. You can use the provided `variables.tf` as a reference for input variables.
 
 5. Apply the Terraform configuration to create the resources:
